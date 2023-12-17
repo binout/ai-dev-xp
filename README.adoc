@@ -1,0 +1,18 @@
+= From ignorance to addiction: How has AI changed the way I code?
+
+Slides for conference `Touraine Tech 2024`
+
+* https://binout.github.io/ai-dev-xp/
+
+== Tools
+
+Based on https://github.com/asciidoctor/asciidoctor-reveal.js
+
+Pre-requisites:: npm
+
+.Generate HTML slides
+[source]
+----
+npm install
+npm run build
+----
