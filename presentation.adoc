@@ -25,6 +25,13 @@ revealDiv.appendChild(footer);
 </div>
 ++++
 
+== ℹ️ Disclaimer
+
+image::images/{conf}-background.png[background, size=cover]
+
+* Pas de comparaison d'assistances de code
+* Pas d'explication approfondie de l'IA
+* Juste un retour personnel
 
 == Benoit Prioux
 
@@ -43,6 +50,111 @@ image:images/Alan-1.png[width=25%]
 image:images/Alan-Mascot.png[width=30%]
 image:images/Alan-2.png[width=25%]
 
+== 🧑‍💻 IA chez Alan
+
+image::images/{conf}-background.png[background, size=cover]
+
+Charles Gorintin - CTO
+image:images/gorintin.png[width=70%]
+
+== 🚀 Novembre 2021
+
+image::images/{conf}-background.png[background, size=cover]
+
+image:images/gorintin-copilot.png[]
+
+== ⚙️ Github Copilot
+
+image::images/{conf}-background.png[background, size=cover]
+
+image:images/copilot.png[]
+
+https://medium.com/analytics-vidhya/github-copilot-all-you-need-to-know-8e6fc1d5ccc[Source]
+
+
+== 🙅‍♂️ Pas pour moi
+
+image::images/{conf}-background.png[background, size=cover]
+
+* “trop senior pour être utile”
+* “du code généré mais de mauvaise qualité
+* “marche que pour des hello words”
+
+== 😨 24 mois plus tard
+
+image::images/{conf}-background.png[background, size=cover]
+
+“oh non ma subscription à Copilot n’a pas été renouvelée, j’en ai trop besoin”
+
+image:images/slack.png[]
+
+== 🗓️ Timeline, Gitbub Copilot
+
+image::images/{conf}-background.png[background, size=cover]
+
+* Novembre 2021: 1ère démo
+* Octobre 2022: Entends du bien, 
+* 30 octobre 2022: Installation
+* 30 octobre 2023: Besoin d'une nouvelle souscription
+
+== 😤 Premier contact 
+
+image::images/{conf}-background.png[background, size=cover]
+
+me ralentit en coupant mon rythme, intrusif,
+
+== 🧐 Et puis, parfois c'est pas mal 
+
+image::images/{conf}-background.png[background, size=cover]
+
+suggestion pertinente et utile dans certains cas (error message, logging, code homogène)
+
+== 💡 Et si c'est à moi de m'adapter?
+
+image::images/{conf}-background.png[background, size=cover]
+
+comment aider Copilot à être plus pertinent
+
+== 🤓 Tip: Utiliser les commentaires
+
+image::images/{conf}-background.png[background, size=cover]
+
+Demo
+
+== 🤓 Tip: Code homogène
+
+image::images/{conf}-background.png[background, size=cover]
+
+Demo
+
+== 🤓 Tip: Nommage
+
+image::images/{conf}-background.png[background, size=cover]
+
+image:images/leap_year.png[]
+
+image:images/leap_year_test.png[]
+
+== 😎 Aujourd'hui
+
+image::images/{conf}-background.png[background, size=cover]
+
+Utilisation quotidienne
+
+* Github Copilot
+* Phind 👉 https://www.phind.com/
+* Dust 👉 https://dust.tt/
+
+== 🤩 Et pas que le code
+
+image::images/{conf}-background.png[background, size=cover]
+
+Ecriture des peer reviews
+
+* 🏆 Un fichier avec le "Summary of achievement"
+* 🗂️ Un fichier avec la grille d'évaluation
+* ✍️ Un fichier pour écrire la review
+
 == Merci 🙏
 
 image::images/{conf}-background.png[background, size=cover]
@@ -52,3 +164,4 @@ image::images/{conf}-background.png[background, size=cover]
 image::images/marmot.png[width=20%]
 
 ➡️ https://alan.com/careers
+
