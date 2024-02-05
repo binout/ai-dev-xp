@@ -92,28 +92,45 @@ image:images/slack.png[]
 
 image::images/{conf}-background.png[background, size=cover]
 
-* Novembre 2021: 1ère démo
-* Octobre 2022: Entends du bien, 
-* 30 octobre 2022: Installation
-* 30 octobre 2023: Besoin d'une nouvelle souscription
+* Nov 2021 : 🥇 Démo
+* Nov 2021 -> Octobre 2002 : 🗣️ 🤔
+* 30 octobre 2022: 🥇 Installation - PyCharm / VsCode
+* 30 octobre 2023: 🚀 Renouvellement souscription
 
 == 😤 Premier contact 
 
 image::images/{conf}-background.png[background, size=cover]
 
-me ralentit en coupant mon rythme, intrusif,
+* Complétion un peu trop intrusive
+* Ralentit mon "rythme" de travail
+* Pas confiance dans la suggestion
 
 == 🧐 Et puis, parfois c'est pas mal 
 
 image::images/{conf}-background.png[background, size=cover]
 
-suggestion pertinente et utile dans certains cas (error message, logging, code homogène)
+image:images/demo-error-message-1.png[]
+
+
+== 🤩 Ecrire un message d'erreur 
+
+image::images/{conf}-background.png[background, size=cover]
+
+image:images/demo-error-message-2.png[]
+
+== 😎 Ecrire un message de log
+
+image::images/{conf}-background.png[background, size=cover]
+
+image:images/demo-logging.png[width=70%]
+
 
 == 💡 Et si c'est à moi de m'adapter?
 
 image::images/{conf}-background.png[background, size=cover]
 
-comment aider Copilot à être plus pertinent
+* Comment aider Copilot à être plus pertinent ?
+* Comment maximiser la connaissance du contexte de Copilot ?
 
 == 🤓 Tip: Utiliser les commentaires
 
@@ -127,12 +144,29 @@ image::images/{conf}-background.png[background, size=cover]
 
 image:images/demo-max-2.png[]
 
+== 🤓 Tip: Utiliser les commentaires pour copilot
+
+image::images/{conf}-background.png[background, size=cover]
+
+image:images/demo-comment-1.png[]
+
+== 🤓 Tip: Utiliser les commentaires pour copilot
+
+image::images/{conf}-background.png[background, size=cover]
+
+image:images/demo-comment-2.png[]
 
 == 🤓 Tip: Code homogène
 
 image::images/{conf}-background.png[background, size=cover]
 
-Demo
+image:images/demo-homogene-1.png[width=70%]
+
+== 🤓 Tip: Code homogène
+
+image::images/{conf}-background.png[background, size=cover]
+
+image:images/demo-homogene-2.png[width=60%]
 
 == 🤓 Tip: Nommage
 
@@ -146,17 +180,17 @@ image:images/leap_year_test.png[]
 
 image::images/{conf}-background.png[background, size=cover]
 
-Utilisation quotidienne
+🧰 Indispensable dans ma boite à outils de développeur
 
-* Github Copilot
-* Phind 👉 https://www.phind.com/
-* Dust 👉 https://dust.tt/
+image:images/copilot-metrics.png[width=70%]
+
+https://github.blog/2023-06-27-the-economic-impact-of-the-ai-powered-developer-lifecycle-and-lessons-from-github-copilot/[Source]
 
 == 🤩 Et pas que le code
 
 image::images/{conf}-background.png[background, size=cover]
 
-Ecriture des peer reviews
+💁 Ecriture des peer reviews
 
 * 🏆 Un fichier avec le "Summary of achievement"
 * 🗂️ Un fichier avec la grille d'évaluation
