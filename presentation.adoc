@@ -29,9 +29,9 @@ revealDiv.appendChild(footer);
 
 image::images/{conf}-background.png[background, size=cover]
 
-* Pas de comparaison d'assistances de code
+* Pas de comparaison des assistants de code
 * Pas d'explication approfondie de l'IA
-* Juste un retour personnel
+* Juste un retour personnel 💁
 
 == Benoit Prioux
 
